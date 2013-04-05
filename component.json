@@ -1,9 +1,9 @@
 {
   "name": "user-agent-parser",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "description": "user agent string parser",
   "keywords": ["os", "user-agent", "ua", "parser"],
-  "scripts": ["ua-parser.js"],
-  "main": "ua-parser.js",
+  "scripts": ["src/ua-parser.js"],
+  "main": "src/ua-parser.js",
   "license": "mit"
 }
