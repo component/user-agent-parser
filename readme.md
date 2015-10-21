@@ -1,4 +1,4 @@
-# UAParser.js
+**Deprecated: use `ua-parser-js` instead**
 
 Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as Component package, Bower package, jQuery.ua, & AMD module
 
